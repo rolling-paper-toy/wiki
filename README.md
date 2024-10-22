@@ -43,7 +43,7 @@
 - **김현수:** 백엔드 - [블로그](https://soo-develop.tistory.com/)
 - **정광우:** 백엔드 - [블로그](https://junggw96.tistory.com/)
 - **차현우:** 프론트 - [블로그](https://velog.io/@doggyfoot92)
-- **장원지:** 프론트
+- **장원지:** 프론트 - [블로그](https://velog.io/@frozen_land/posts)
 
 ### 🛠️ 기술 스택
 
