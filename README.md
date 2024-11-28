@@ -24,7 +24,7 @@
 1. [🗂️ 프로젝트 설명](#프로젝트-설명)
 2. [🎯 주요 목표](#주요-목표)
 3. [🔍 주요 기능](#주요-기능)
-4. [✔️ 실제 서비스 배포 사례](#✔️-실제-서비스-배포-사례)
+4. [✔️ 실제 서비스 배포 사례](#실제-서비스-배포-사례)
 5. [👥 팀원](#팀원)
 
 <br>
@@ -173,9 +173,9 @@
 
 <img src="https://github.com/user-attachments/assets/e91361a1-bb10-43a5-8945-05301bceb815" width="60%">
 
-- **김현수(백엔드, ENTP)** [![Tistory](https://img.shields.io/badge/story-E34F26?style=flat-square&logo=tistory&logoColor=white)](https://soo-develop.tistory.com/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Soo186)
-- **정광우(백엔드, ENTJ)** [![Tistory](https://img.shields.io/badge/story-E34F26?style=flat-square&logo=tistory&logoColor=white)](https://junggw96.tistory.com/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pangwoo96)
-- **차현우(프론트, INFP)** [![Velog](https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dilkusha27)
-- **장원지(프론트, ISFP)** [![Velog](https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@frozen_land/posts) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/wkddnjswl7)
+- **김현수(백엔드)** [![Tistory](https://img.shields.io/badge/story-E34F26?style=flat-square&logo=tistory&logoColor=white)](https://soo-develop.tistory.com/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Soo186)![MBTI](https://img.shields.io/badge/-ENTP-navy)
+- **정광우(백엔드)** [![Tistory](https://img.shields.io/badge/story-E34F26?style=flat-square&logo=tistory&logoColor=white)](https://junggw96.tistory.com/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pangwoo96)![MBTI](https://img.shields.io/badge/-INTJ-blue)
+- **차현우(프론트)** [![Velog](https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dilkusha27)![MBTI](https://img.shields.io/badge/-INFP-white)
+- **장원지(프론트)** [![Velog](https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@frozen_land/posts) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/wkddnjswl7)![MBTI](https://img.shields.io/badge/-ISFP-pink)
 
 <sub>저희 사이 좋아요 👍</sub>
