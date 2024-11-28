@@ -21,15 +21,15 @@
 <br>
 
 ## 목차
-1. [🗂️ 프로젝트 설명](#🗂️-프로젝트-설명)
-2. [🎯 주요 목표](#🎯-주요-목표)
-3. [🔍 주요 기능](#🔍-주요-기능)
+1. [🗂️ 프로젝트 설명](#프로젝트-설명)
+2. [🎯 주요 목표](#주요-목표)
+3. [🔍 주요 기능](#주요-기능)
 4. [✔️ 실제 서비스 배포 사례](#✔️-실제-서비스-배포-사례)
-5. [👥 팀원](#👥-팀원)
+5. [👥 팀원](#팀원)
 
 <br>
 
-## 🗂️ 프로젝트 설명 
+## 프로젝트 설명
 🔗 SparkleNote- 우리들의 빛나는 추억 :
 <a href="https://sparklenote.site/" target="_blank">https://sparklenote.site/</a>
 
@@ -82,14 +82,14 @@
   
  <br>
   
-## 🎯 주요 목표
+## 주요 목표
 - 프론트엔드와 백엔드 간 API 통신 구현 및 학습
 - 실제 서버에 배포하는 경험 쌓기
 - 실 사용자에게 서비스 제공하기
 
 <br>
 
-## 🔍 주요 기능
+## 주요 기능
 <!-- 홈페이지 기능 gif 로 넣기 -->
 ### 📍 선생님
 <p>✅&nbsp;&nbsp; Social Login → MyPage → RollingPaper</p>
@@ -152,14 +152,14 @@
 <br>
 <br>
 
-## ✔️ 실제 서비스 배포 사례
+## 실제 서비스 배포 사례
 #### 👥 실제 서비스 사용자
 - 사용자: 초등학생 
 - 초등교사인 팀원의 가족 협조로 실제 서비스 제공 예정
 
 #### 📷 실제 서비스 사용 사진
 
-<div >
+<div>
     <img src="https://github.com/user-attachments/assets/32ada1b6-4607-43f8-a1c5-0aa156043f81" width="63%">
     <img src="https://github.com/user-attachments/assets/9b73b9fc-e980-4856-bcb2-6004835c4f8e" width="35.5%">
     <img src="https://github.com/user-attachments/assets/b7fbfceb-87f2-465d-8f5c-6e3c0b3ae4ae" width="100%">
@@ -169,7 +169,7 @@
 
 <br>
 
-## 👥 팀원
+## 팀원
 
 <img src="https://github.com/user-attachments/assets/e91361a1-bb10-43a5-8945-05301bceb815" width="60%">
 
