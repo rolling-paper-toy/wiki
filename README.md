@@ -29,9 +29,11 @@
 
 <br>
 
-## 📖 프로젝트 설명
+## 🗂️ 프로젝트 설명 
+🔗 SparkleNote- 우리들의 빛나는 추억 :
+<a href="https://sparklenote.site/" target="_blank">https://sparklenote.site/</a>
 
-### 프로젝트 개요
+### 📖 프로젝트 개요
 - 이 프로젝트는 간단한 롤링페이퍼 웹사이트를 개발하는 것을 목표로 합니다. 주요 목적은 웹 개발의 전체 프로세스를 경험하고 기본기를 다지는 것입니다.
 
 ### 🗓️ 프로젝트 기간
@@ -119,7 +121,7 @@
     <img src="https://github.com/user-attachments/assets/9b73b9fc-e980-4856-bcb2-6004835c4f8e" width="35.5%">
     <img src="https://github.com/user-attachments/assets/b7fbfceb-87f2-465d-8f5c-6e3c0b3ae4ae" width="100%">
     <img src="https://github.com/user-attachments/assets/1f0bef57-56a4-48a8-b621-ef499e75a94a" width="50%">
-    <img src="https://github.com/user-attachments/assets/076cf91e-7abf-452b-ac8a-87125b262548" width="48.2%">
+    <img src="https://github.com/user-attachments/assets/5fc26da8-82bd-4031-a102-6cfea0f41f57" width="48.2%">
 </div>
 
 <br>
