@@ -96,20 +96,28 @@
 <img src="https://github.com/user-attachments/assets/76613bd1-2a32-48b7-ba1c-d48eb5014638" width="40%">
 
 <br>
+<br>
+<br>
 
 <p>✅&nbsp;&nbsp;MyPage ➡️ 학급 생성 기능</p>
 <img src="https://github.com/user-attachments/assets/5465663a-8740-484b-ab6a-12e962698c64" width="40%">
 
+<br>
+<br>
 <br>
 
 <p>✅&nbsp;&nbsp;MyPage ➡️ URL 복사/수정/삭제 기능</p>
 <img src="https://github.com/user-attachments/assets/a9f34077-c8d0-43e3-9733-78591a928d4d" width="40%">
 
 <br>
+<br>
+<br>
 
 <p>✅&nbsp;&nbsp;RollingPaper ➡️ 작성/수정/삭제 기능</p>
 <img src="https://github.com/user-attachments/assets/c7437697-c0c5-4415-97e6-2c71b99c8f1f" width="40%">
 
+<br>
+<br>
 <br>
 
 ### 📍 학생
@@ -117,15 +125,21 @@
 <img src="https://github.com/user-attachments/assets/23243adb-7e64-4348-84d3-ce1745dc1a84" width="40%">
 
 <br>
+<br>
+<br>
 
 <p>✅&nbsp;&nbsp;RollingPaper ➡️ 작성/수정/삭제 기능</p>
 <img src="https://github.com/user-attachments/assets/5c3b8e49-a57a-4e67-ad19-2fd797db9e69" width="40%">
 
 <br>
+<br>
+<br>
 
 <p>✅&nbsp;&nbsp;RollingPaper ➡️ 본인이 작성하지않은 페이퍼</p>
 <img src="https://github.com/user-attachments/assets/d2099814-814f-4cc4-858c-0a07c4c9df89" width="40%">
 
+<br>
+<br>
 <br>
 
 <p>✅&nbsp;&nbsp;Login 예외 처리 <br></p>
@@ -134,7 +148,8 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;➡️ 비밀번호에 한글, 영문 또는 특수문자 포함<br></p>
 <img src="https://github.com/user-attachments/assets/7d68294f-a969-4276-a8b9-8322f19c090b" width="30%">
 
-
+<br>
+<br>
 <br>
 
 ## ✔️ 실제 서비스 배포 사례
