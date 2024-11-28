@@ -92,19 +92,47 @@
 ## 🔍 주요 기능
 <!-- 홈페이지 기능 gif 로 넣기 -->
 ### 📍 선생님
-- Social Login ➡️ MyPage ➡️ RollingPaper
-- MyPage ➡️ 학급 생성 기능
-- MyPage ➡️ URL 복사/수정/삭제 기능
-- RollingPaper ➡️ 작성/수정/삭제 기능
+<p>✅&nbsp;&nbsp; Social Login ➡️ MyPage ➡️ RollingPaper</p>
+<img src="https://github.com/user-attachments/assets/76613bd1-2a32-48b7-ba1c-d48eb5014638" width="40%">
+
+<br>
+
+<p>✅&nbsp;&nbsp;MyPage ➡️ 학급 생성 기능</p>
+<img src="https://github.com/user-attachments/assets/5465663a-8740-484b-ab6a-12e962698c64" width="40%">
+
+<br>
+
+<p>✅&nbsp;&nbsp;MyPage ➡️ URL 복사/수정/삭제 기능</p>
+<img src="https://github.com/user-attachments/assets/a9f34077-c8d0-43e3-9733-78591a928d4d" width="40%">
+
+<br>
+
+<p>✅&nbsp;&nbsp;RollingPaper ➡️ 작성/수정/삭제 기능</p>
+<img src="https://github.com/user-attachments/assets/c7437697-c0c5-4415-97e6-2c71b99c8f1f" width="40%">
+
+<br>
 
 ### 📍 학생
-- Login ➡️ RollingPaper
-- RollingPaper ➡️ 작성/수정/삭제 기능
-- RollingPaper ➡️ 본인이 작성하지않은 페이퍼
-- Login 예외 처리 <br>
-➡️ 학급코드 불일치<br>
-➡️ 이름에 숫자 또는 특수문자 포함<br>
-➡️ 비밀번호에 한글, 영문 또는 특수문자 포함<br>
+<p>✅&nbsp;&nbsp;Login ➡️ RollingPaper</p>
+<img src="https://github.com/user-attachments/assets/23243adb-7e64-4348-84d3-ce1745dc1a84" width="40%">
+
+<br>
+
+<p>✅&nbsp;&nbsp;RollingPaper ➡️ 작성/수정/삭제 기능</p>
+<img src="https://github.com/user-attachments/assets/5c3b8e49-a57a-4e67-ad19-2fd797db9e69" width="40%">
+
+<br>
+
+<p>✅&nbsp;&nbsp;RollingPaper ➡️ 본인이 작성하지않은 페이퍼</p>
+<img src="https://github.com/user-attachments/assets/d2099814-814f-4cc4-858c-0a07c4c9df89" width="40%">
+
+<br>
+
+<p>✅&nbsp;&nbsp;Login 예외 처리 <br></p>
+<!-- <p>&nbsp;&nbsp;&nbsp;&nbsp;➡️ 학급코드 불일치<br></p> -->
+<!-- <p>&nbsp;&nbsp;&nbsp;&nbsp;➡️ 이름에 숫자 또는 특수문자 포함<br></p> -->
+<p>&nbsp;&nbsp;&nbsp;&nbsp;➡️ 비밀번호에 한글, 영문 또는 특수문자 포함<br></p>
+<img src="https://github.com/user-attachments/assets/7d68294f-a969-4276-a8b9-8322f19c090b" width="30%">
 
 
 <br>
@@ -128,8 +156,11 @@
 
 ## 👥 팀원
 
+<img src="https://github.com/user-attachments/assets/e91361a1-bb10-43a5-8945-05301bceb815" width="60%">
+
 - **김현수(백엔드)** [![Tistory](https://img.shields.io/badge/story-E34F26?style=flat-square&logo=tistory&logoColor=white)](https://soo-develop.tistory.com/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Soo186)
 - **정광우(백엔드)** [![Tistory](https://img.shields.io/badge/story-E34F26?style=flat-square&logo=tistory&logoColor=white)](https://junggw96.tistory.com/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pangwoo96)
 - **차현우(프론트)** [![Velog](https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dilkusha27)
 - **장원지(프론트)** [![Velog](https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@frozen_land/posts) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/wkddnjswl7)
 
+<sub>저희 사이 좋아요 👍</sub>
