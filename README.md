@@ -171,7 +171,9 @@
 
 ## 팀원
 
-<img src="https://github.com/user-attachments/assets/a2c0ce26-b9ef-4afe-bf72-2e0f4197f609" width="60%">
+<img width="60%" src="https://github.com/user-attachments/assets/43a628dd-c295-4327-b48f-6990c50e3411">
+
+
 
 - **김현수(백엔드)** [![Tistory](https://img.shields.io/badge/story-E34F26?style=flat-square&logo=tistory&logoColor=white)](https://soo-develop.tistory.com/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Soo186)![MBTI](https://img.shields.io/badge/-ENTP-navy)
 - **정광우(백엔드)** [![Tistory](https://img.shields.io/badge/story-E34F26?style=flat-square&logo=tistory&logoColor=white)](https://junggw96.tistory.com/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pangwoo96)![MBTI](https://img.shields.io/badge/-INTJ-blue)
