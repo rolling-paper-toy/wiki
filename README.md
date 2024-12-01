@@ -32,8 +32,13 @@
 ## 프로젝트 설명
 🔗 SparkleNote- 우리들의 빛나는 추억 :
 <a href="https://sparklenote.site/" target="_blank">https://sparklenote.site/</a><br>
-🔗 <a href="https://github.com/rolling-paper-toy/back-end">Backend Repository</a><br>
-🔗 <a href="https://github.com/rolling-paper-toy/front-end">Frontend Repository</a>
+
+🗂️ Project Repositories
+- [Backend Repository](https://github.com/rolling-paper-toy/back-end)
+- [Frontend Repository](https://github.com/rolling-paper-toy/front-end)
+
+### ✈️ 자세한 프로젝트 진행과정은 wiki를 참고해주세요!
+- https://github.com/rolling-paper-toy/wiki/wiki
 
 
 ### 📖 프로젝트 개요
