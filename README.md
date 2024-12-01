@@ -31,7 +31,10 @@
 
 ## 프로젝트 설명
 🔗 SparkleNote- 우리들의 빛나는 추억 :
-<a href="https://sparklenote.site/" target="_blank">https://sparklenote.site/</a>
+<a href="https://sparklenote.site/" target="_blank">https://sparklenote.site/</a><br>
+🔗 <a href="https://github.com/rolling-paper-toy/back-end">Backend Repository</a><br>
+🔗 <a href="https://github.com/rolling-paper-toy/front-end">Frontend Repository</a>
+
 
 ### 📖 프로젝트 개요
 - 이 프로젝트는 간단한 롤링페이퍼 웹사이트를 개발하는 것을 목표로 합니다. 주요 목적은 웹 개발의 전체 프로세스를 경험하고 기본기를 다지는 것입니다.
